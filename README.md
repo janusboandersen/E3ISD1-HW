@@ -1,6 +1,12 @@
 # E3ISD1-HW
-Various code for E3ISD1 Hardware Stream
+This repo contains code for the course E3ISD1, Hardware stream.
 
-Uses the NXP KL25Z Development Board and the SDK from NXP.
+## IDE
+The files need to be added and compiled in the NXP MCUXpresso IDE. This requires an SDK for the development board. 
 
-Janus
+## Development board
+The course relies on the NXP KL25Z Development Board and the SDK from NXP.
+
+## Folders
+* 
+* 
