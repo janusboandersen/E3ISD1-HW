@@ -8,5 +8,4 @@ The files need to be added and compiled in the NXP MCUXpresso IDE. This requires
 The course relies on the NXP KL25Z Development Board and the SDK from NXP.
 
 ## Folders
-* 
-* 
+* There is a folder covering each weekly exercise.
