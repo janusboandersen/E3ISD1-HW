@@ -5,5 +5,5 @@ This exercise demonstrates how to
 * Read 5 buttons to control both on-board RGB LED and the LCD.
 
 ## Picture
-The pictures shows the setup
+The picture shows the setup running.
 ![demo of code](demo.jpg "Demonstration of code...")
