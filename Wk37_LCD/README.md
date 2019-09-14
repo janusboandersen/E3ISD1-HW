@@ -6,3 +6,4 @@ This exercise demonstrates how to
 
 ## Picture
 The pictures shows the setup
+![demo of code](demo.jpg "Demonstration of code...")
